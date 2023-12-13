@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 st.write('Return largest of 3 input numbers')
-
+st.write('This app was created by Shubharup Ganguly, 21f1003061@ds.study.iitm.ac.in')
 def user_input_features():
   num1 = st.number_input("num1")
   num2 = st.number_input("num2")
