@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-from sklearn import datasets
 
 st.write('Return largest of 3 input numbers')
 
